@@ -115,18 +115,18 @@ ITEMS = (
 )
 
 THROW = (
-    "throws",
-    "flings",
-    "chucks",
-    "hurls",
+    "menamparkan",
+    "melemparkan",
+    "memukulkan",
+    "menjatuhkan",
 )
 
 HIT = (
-    "hits",
-    "whacks",
-    "slaps",
-    "smacks",
-    "bashes",
+    "memukul",
+    "meninju",
+    "menampar",
+    "menampol",
+    "menggeplak",
 )
 
 GMAPS_LOC = "https://maps.googleapis.com/maps/api/geocode/json"
